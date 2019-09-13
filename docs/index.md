@@ -14,6 +14,7 @@ title: About me
 - Agile team setups
 - Scalable high available cloud infrastructure
 - Business automation
+- Open source idea
 
 ## Maintainer
 
