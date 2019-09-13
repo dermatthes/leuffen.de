@@ -1,9 +1,5 @@
-# This is a skeletton jekyll page
+# Homepage Matthias Leuffen
 
-It can be used:
-- For github-pages
-- Standalone as Webpage with apache2
+Using github pages and kickstart-flavor-jekyll static site creator.
 
-## Development mode
-
-Just execute `kick dev` to start the jekyll compiler in watching mode.
+Start it on localhost: `./kickstart.sh`
