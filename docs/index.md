@@ -21,7 +21,7 @@ title: About me
 - **[infracamp](https://infracamp.org)**: Open source incubator
 - **[text/template](https://github.com/dermatthes/text-template)**: A simple template system for PHP
 - **[Phore Framework](https://github.com/phore)**: Microservice framework for IoT and big-data.
-- **[kickstart](https://github.com/infracamp/kickstart)**: Container based rapid development environment
+- **[kickstart](https://github.com/infracamp/kickstart)**: Language agnostic container based rapid development environment
 
 ## CV
 
