@@ -1,0 +1,11 @@
+
+brand_src: "/assets/infracamp.png"
+brand_name: "Matthias Leuffen"
+brand_href: "/"
+
+main:
+
+
+right:
+  - icon: "fab fa-github"
+    href: "http://github.com/dermatthes"
