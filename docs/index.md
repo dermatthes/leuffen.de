@@ -19,7 +19,7 @@ title: About me
 ## Maintainer
 
 - **[infracamp](https://infracamp.org)**: Open source incubator
-- **[text/template](https://github.com/dermatthes/text-template)**: A simple template system for PHP
+- **[text/template](https://packagist.org/packages/text/template)**: A simple template system for PHP
 - **[Phore Framework](https://github.com/phore)**: Microservice framework for IoT and big-data.
 - **[kickstart](https://github.com/infracamp/kickstart)**: Language agnostic container based rapid development environment
 
