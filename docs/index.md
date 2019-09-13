@@ -31,7 +31,7 @@ title: About me
 - 2006: Freelancer web-development / operations
 - 2000: Abitur (Norbert Gymnasium Knechtsteden)
 
-## Conferences
+## Speaker
 
 - ITSMF 2018: "Fachkräftemangel im IT Konzern"
 - IT Sicherheitskonferenz 2018: "Muss der Admin alles können dürfen"
