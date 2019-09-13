@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-<img src="assets/matthias.jpeg" style="width:200px; float:right;margin: 10px">
+<img src="assets/matthias.jpg" style="width:200px; float:right;margin: 10px">
 
 
 
