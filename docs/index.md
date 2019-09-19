@@ -11,7 +11,7 @@ title: About me
 ## Interests
 
 - Agile product development
-- Agile team setups, eXtreme Programming
+- Agile team setups / eXtreme Programming
 - Scalable high available cloud infrastructure
 - Business automation
 - Open source development / mindset
