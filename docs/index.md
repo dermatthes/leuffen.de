@@ -33,7 +33,7 @@ title: About me
 
 ## Speaker
 
-- ITSMF 2018: "*Fachkräftemangel im IT Konzern?*"
+- ITSMF 2018: "*Fachkräftemangel im IT Konzern*"
 - IT Sicherheitskonferenz 2018: "*Muss der Admin alles können dürfen?*"
 
 ## Contact
