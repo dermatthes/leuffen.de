@@ -25,7 +25,7 @@ title: About me
 
 ## CV
 
-- now: Cloud Architect / team lead IIoT platform *(Talpasolutions GmbH)*
+- now: Cloud architect / team lead IIoT platform *(Talpasolutions GmbH)*
 - 2018: Team lead web-engineering *(Continue Software GmbH)*
 - 2012: BA Business studies *(FH Aachen)*
 - 2006: Freelancer web-development / operations
