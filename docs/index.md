@@ -14,7 +14,7 @@ title: About me
 - Agile team setups / eXtreme Programming
 - Scalable high available cloud infrastructure
 - Business automation
-- Open source development / mindset
+- Open source mindset
 
 ## Maintainer
 
