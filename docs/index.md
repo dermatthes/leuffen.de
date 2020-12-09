@@ -5,7 +5,8 @@ title: About me
 
 <img src="assets/matthias.jpg" style="width:200px; float:right;margin: 10px">
 
-
+Matthias builds collaborative platforms with agile development in open-source communities. But
+this text is just SEO - read further - or check out my projects.
 
 ## Interests
 
@@ -22,7 +23,7 @@ title: About me
 - **[Phore Framework](https://github.com/phore)**:  IoT and big-data microservice framework
 - **[kickstart](https://github.com/infracamp/kickstart)**: Language agnostic container based rapid development environment
 
-## CV
+## Stations
 
 - now: Cloud architect / team lead IIoT platform *(Talpasolutions GmbH)*
 - 2018: Team lead web-engineering *(Continue Software GmbH)*
