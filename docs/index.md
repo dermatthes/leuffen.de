@@ -3,7 +3,6 @@ layout: default
 title: About me
 ---
 
-
 <img src="assets/matthias.jpg" style="width:200px; float:right;margin: 10px">
 
 
