@@ -38,6 +38,6 @@ title: About me
 
 ## Contact
 
-Matthias Leuffen - Viehofer Str. 31 - 45127 Essen - m@tth.es - Germany
+Matthias Leuffen - Mathildenstr. 9-11 - 45130 Essen - m@tth.es - Germany
 
 [see page source](https://github.com/dermatthes/leuffen.de)
