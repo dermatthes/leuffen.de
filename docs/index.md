@@ -6,8 +6,8 @@ title: About me
 <img src="assets/matthias.jpg" style="width:200px; float:right;margin: 10px">
 
 Matthias Leuffen is a social entrepreneur who focuses on building cloud-native collaborative platforms 
-using agile development strategies in open-source communities. And this text is just SEO. Read further,
-check out my projects, contribute.
+using agile development strategies in open-source communities. But, in facti, this text is just SEO. 
+Read further, klick the links, check out my projects and contribute.
 
 ## Interests
 
