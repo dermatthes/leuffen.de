@@ -5,8 +5,8 @@ title: About me
 
 <img src="assets/matthias.jpg" style="width:200px; float:right;margin: 10px">
 
-Matthias Leuffen is a social entrepreneur focusing on cloud-native collaborative platforms 
-using agile development strategies in open-source communities. DevOps and Dev(Sec)Ops lead to GitOps.
+Matthias Leuffen is focusing on cloud-native collaborative platforms implementing 
+agile development strategies in open-source communities. DevOps and Dev(Sec)Ops lead to GitOps.
 But, in fact, this text is just SEO. Read further, klick the links, check out my projects, 
 contribute and become a maintainer. Maintainers are rare. But they are vital. 
 Not only to open-source but also towards community.
