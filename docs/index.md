@@ -25,7 +25,7 @@ agile development strategies in open-source communities.
 
 ## Stations
 
-- now: Cloud architect / team lead IIoT platform *(Talpasolutions GmbH)*
+- 2021: Cloud architect / team lead IIoT platform *(Talpasolutions GmbH)*
 - 2018: Team lead web-engineering *(Continue Software GmbH)*
 - 2012: BA Business studies *(FH Aachen)*
 - 2006: Freelancer web-development / operations
