@@ -6,12 +6,12 @@ title: Projects & Interests
 # Tackle Amazon
 
 It might be megalomanious towards anybody to read this. But we want
-to distract he market domination from amazon. And from google. And from
-facebook.
+to distract the market domination from Amazon. And from Google. And from
+Facebook.
 
 Global Communication Plattforms like Google, Facebook and Twitter are
-no good for the community. They are stadiums where the loudest to scream
-the more response you get. Without impact on the global discussion.
+no good for the community. They are stadiums wherever the loudest to scream gains
+the most importance. Without any impact on the global discussion.
 
 Due to corona, it seems like the autherian regimes handle it better
 than we do. Is democracy on jeopary?
