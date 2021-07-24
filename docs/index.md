@@ -5,11 +5,8 @@ title: About me
 
 <img src="assets/matthias.jpg" style="width:200px; float:right;margin: 10px">
 
-Matthias Leuffen is a social entrepreneur focusing on cloud-native collaborative platforms 
-using agile development strategies in open-source communities. DevOps and Dev(Sec)Ops lead to GitOps.
-But, in fact, this text is just SEO. Read further, klick the links, check out my projects, 
-contribute and become a maintainer. Maintainers are rare. But they are vital. 
-Not only to open-source but also towards community.
+Matthias Leuffen is focusing on cloud-native collaborative platforms implementing 
+agile development strategies in open-source communities.
 
 ## Interests
 
@@ -28,7 +25,7 @@ Not only to open-source but also towards community.
 
 ## Stations
 
-- now: Cloud architect / team lead IIoT platform *(Talpasolutions GmbH)*
+- 2021: Cloud architect / team lead IIoT platform *(Talpasolutions GmbH)*
 - 2018: Team lead web-engineering *(Continue Software GmbH)*
 - 2012: BA Business studies *(FH Aachen)*
 - 2006: Freelancer web-development / operations
