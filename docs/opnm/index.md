@@ -7,7 +7,7 @@ title: OpenMenu - Examplo Restaurant
 
 <style>
     .container-fluid img {
-        max-width: 800px;
+        max-width: 100%;
         margin-bottom: 40px;
         border: 1px solid black;
     }
